@@ -32,7 +32,7 @@ class Greeting extends React.Component {
           <input
             className="input"
             name="name"
-            placeholder="Enter your name..."
+            placeholder="Enter your namess..."
             onChange={this.onChange}
           />
         </section>
