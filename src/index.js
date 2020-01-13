@@ -5,7 +5,7 @@ import "./styles.css";
 
 // First we create our class
 class Greeting extends React.Component {
-  // Then we add our constructor which receives our propss
+  // Then we add our constructor which receives our prop
   constructor(props) {
     super(props);
     // Next we establish our state
