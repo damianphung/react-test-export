@@ -4,7 +4,7 @@ import "./another-stylesheet.css"; // Import regular stylesheet
 
 class Button extends Component {
   render() {
-    // reference as a js object
+    // reference as a js objects
     return <button className={styles.error}>Error Button</button>;
   }
 }
